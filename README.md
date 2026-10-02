@@ -1,5 +1,7 @@
 DISCLAIMER AND SOURCES
 
+<p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
+
 Content Wire researches and publishes articles and analyses intended for general information only. They are written in good faith and based on consolidated sources, verified to the best of Content Wire's ability before publication. They do not constitute legal, financial, investment, tax, regulatory, compliance, procurement or other professional advice, and reading them creates no advisory, fiduciary or client relationship with Content Wire or its contributors. Readers should obtain independent professional advice before acting on any matter discussed.
 
 Each article reflects information publicly available at the time of writing. Despite the checks described above, that information may be incomplete or contain errors, and it may change without notice. Content Wire gives no warranty, express or implied, as to the accuracy, completeness or currency of its articles and has no obligation to update them.
