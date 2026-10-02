@@ -13,6 +13,77 @@ To the fullest extent Content Wire and its contributors accept no liability for 
 
 SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse. 
 
+# Sources for disclaimer page — Content Wire merged batch, 02/10/2026
+
+Part 1: articles dated 01/10/2026
+
+All sources opened and read on 1 October 2026.
+
+## MAS Seeks Tighter Independence Tests for Bank and Insurer Boards
+- Monetary Authority of Singapore, "MAS Consults on Targeted Updates to Corporate Governance Requirements for Banks, Insurers and Designated Financial Holding Companies", media release, 30 September 2026, as republished by Mondo Visione: https://mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-consults-on-targeted-updates-to-corporate-govern-2026930
+- Fintech News Singapore, "MAS Seeks Tighter Rules on Boards and Key Appointments at Banks, Insurers", 1 October 2026: https://fintechnews.sg/138340/regtech/mas-board-rules-banks-insurers/
+- Monetary Authority of Singapore, Consultation Paper P017-2025, "Guidelines on Artificial Intelligence Risk Management", November 2025: https://cfasocietysingapore.org/wp-content/uploads/2026/01/MAS-Consultation_Paper-on-Guidelines-on-AI-Risk-Management.pdf
+- Origin Pi, "From Principles to Practice: MAS AI Risk Management in 2026", updated 6 August 2026: https://originpi.com/blog/mas-ai-risk-management-2026/
+
+## Singapore Proposes Prior Approval for Bank Technology Chiefs
+- MAS media release, 30 September 2026 (Mondo Visione, as above)
+- GRC Report, "MAS Proposes Tighter Governance Rules for Singapore's Biggest Banks & Insurers", 30 September 2026: https://www.grcreport.com/post/mas-proposes-tighter-governance-rules-for-singapores-biggest-banks-insurers
+- Fintech News Singapore, 1 October 2026 (as above)
+- MAS Consultation Paper P017-2025 (as above)
+- Origin Pi, updated 6 August 2026 (as above)
+
+## Ten MAS Questions on AI Risk for Readers Beyond Singapore
+- MAS Consultation Paper P017-2025 (as above)
+- Origin Pi, updated 6 August 2026 (as above)
+
+## Industry Group Pushes Back on MAS Plans for AI Oversight
+- Asia Securities Industry and Financial Markets Association, "ASIFMA Response to MAS Consultation Paper on Proposed Guidelines on Artificial Intelligence Risk Management for Financial Institutions", 30 January 2026: https://www.asifma.org/wp-content/uploads/2026/02/2026-01-31-asifma-response-to-mas-ai-risk-mgmt-guidelines-cp.pdf
+- MAS Consultation Paper P017-2025 (as above)
+- Origin Pi, updated 6 August 2026 (as above)
+
+## Not read
+- MAS consultation page and paper for P016-2026 (mas.gov.sg refuses automated retrieval): https://www.mas.gov.sg/publications/consultations/2026/consultation-paper-on-amendments-to-cg-regulations-for-banks-insurers-and-designated-fhcs
+
+---
+
+Part 2: articles dated 02/10/2026
+
+All sources opened and read on 1–2 October 2026.
+
+## Source key
+- [S1] Monetary Authority of Singapore, "MAS Consults on Targeted Updates to Corporate Governance Requirements for Banks, Insurers and Designated Financial Holding Companies", media release, 30 September 2026, as republished by Mondo Visione: https://mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-consults-on-targeted-updates-to-corporate-govern-2026930
+- [S2] The Straits Times, "MAS proposes tighter board rules for S'pore banks, insurers", 30 September 2026, as republished by Head Topics: https://sg.headtopics.com/news/mas-proposes-tighter-board-rules-for-s-pore-banks-insurers-88292724
+- [S3] Fintech News Singapore, "MAS Seeks Tighter Rules on Boards and Key Appointments at Banks, Insurers", 1 October 2026: https://fintechnews.sg/138340/regtech/mas-board-rules-banks-insurers/
+- [S4] GRC Report, "MAS Proposes Tighter Governance Rules for Singapore's Biggest Banks & Insurers", 30 September 2026: https://www.grcreport.com/post/mas-proposes-tighter-governance-rules-for-singapores-biggest-banks-insurers
+- [S5] Monetary Authority of Singapore, Consultation Paper P017-2025, "Guidelines on Artificial Intelligence Risk Management", November 2025 (copy hosted by CFA Society Singapore): https://cfasocietysingapore.org/wp-content/uploads/2026/01/MAS-Consultation_Paper-on-Guidelines-on-AI-Risk-Management.pdf
+- [S6] Monetary Authority of Singapore, Information Paper "Artificial Intelligence Model Risk Management", December 2024 (copy hosted by algerisk.org): https://algerisk.org/wp-content/uploads/2025/09/AI-Model-Risk-Management.pdf
+- [S7] Asia Securities Industry and Financial Markets Association, response to MAS consultation on AI risk management, 30 January 2026: https://www.asifma.org/wp-content/uploads/2026/02/2026-01-31-asifma-response-to-mas-ai-risk-mgmt-guidelines-cp.pdf
+- [S8] Investment Company Institute, response to MAS consultation on AI risk management, 30 January 2026: https://www.ici.org/system/files/2026-02/26-cl-response-mas-ai-risk-guidelines.pdf
+- [S9] Origin Pi, "From Principles to Practice: MAS AI Risk Management in 2026", updated 6 August 2026: https://originpi.com/blog/mas-ai-risk-management-2026/
+
+## By article
+| Article | Sources |
+| --- | --- |
+| When Banking Agents Read Goals Differently From Their Owners | S5, S6, S7, S9 |
+| Human Review Can Weaken as Automated Decisions Speed Up | S5, S6, S7, S9 |
+| Unapproved Tools Test Whether Lenders Know Where Their AI Runs | S5, S6, S7 |
+| Unannounced Vendor Model Changes Worry Financial Firms | S5, S6, S7, S8 |
+| Industry Wants Algorithm Risk Rated by Use Over Complexity | S5, S6, S7, S8, S9 |
+| Kill Switches and Self-Updating Models Test Bank Controls | S5, S6, S7 |
+| Long Tenure and Family Dealings Would Count Against Independence | S1, S2, S3, S5, S7 |
+| Big-Bank Technology Chiefs Face Proposed Approval Test | S1, S4, S5, S6, S7, S9 |
+
+## Not read
+- MAS consultation paper P016-2026 and draft regulations (mas.gov.sg returned a maintenance page to automated requests)
+- The Straits Times original page and the IMDA Model AI Governance Framework for Agentic AI (fetch permission not granted); IMDA content is attributed in the articles to Origin Pi's reading
+
+---
+
+## Added after evaluation, 02/10/2026
+- OpenGov Asia, "Singapore Sets Principles-Based Approach for AI in Financial Services", report of a written parliamentary reply of 5 August 2026 on agentic AI in financial services: https://opengovasia.com/singapore-sets-principles-based-approach-for-ai-in-financial-services/
+- Hubbis, republication of the MAS media release of 30 September 2026 (checked for the scope of the Chief Information Officer approval): https://www.hubbis.com/news/mas-consults-on-targeted-updates-to-corporate-governance-requirements-for-banks-insurers-and-designated-financial-holding-companies
+- Not read: the MAS parliamentary reply and the MAS media release of 20 March 2026 on mas.gov.sg (403 to automated requests); the IMDA Model AI Governance Framework for Agentic AI (cited through Origin Pi only)
+
 Sources for the Content Wire batch 'AI agents under EU law', dated 01/10/2026
 
 1. Agent actions decide which EU laws apply
