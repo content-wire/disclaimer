@@ -13,9 +13,7 @@ To the fullest extent Content Wire and its contributors accept no liability for 
 
 SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse. 
 
-# Sources for disclaimer page — Content Wire merged batch, 02/10/2026
 
-Part 1: articles dated 01/10/2026
 
 All sources opened and read on 1 October 2026.
 
