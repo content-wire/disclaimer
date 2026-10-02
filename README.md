@@ -1,8 +1,9 @@
-DISCLAIMER AND SOURCES
 
 <p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
 
-Content Wire researches and publishes articles and analyses intended for general information only. They are written in good faith and based on consolidated sources, verified to the best of Content Wire's ability before publication. They do not constitute legal, financial, investment, tax, regulatory, compliance, procurement or other professional advice, and reading them creates no advisory, fiduciary or client relationship with Content Wire or its contributors. Readers should obtain independent professional advice before acting on any matter discussed.
+
+
+Disclaimer: Content Wire researches and publishes articles and analyses intended for general information only. They are written in good faith and based on consolidated sources, verified to the best of Content Wire's ability before publication. They do not constitute legal, financial, investment, tax, regulatory, compliance, procurement or other professional advice, and reading them creates no advisory, fiduciary or client relationship with Content Wire or its contributors. Readers should obtain independent professional advice before acting on any matter discussed.
 
 Each article reflects information publicly available at the time of writing. Despite the checks described above, that information may be incomplete or contain errors, and it may change without notice. Content Wire gives no warranty, express or implied, as to the accuracy, completeness or currency of its articles and has no obligation to update them.
 
@@ -15,9 +16,9 @@ To the fullest extent Content Wire and its contributors accept no liability for 
 
 SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse. 
 
+<p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
 
-
-All sources opened and read on 1 October 2026.
+Sources not otherwise specified in content wire article include *as of 1 October 2026.
 
 ## MAS Seeks Tighter Independence Tests for Bank and Insurer Boards
 - Monetary Authority of Singapore, "MAS Consults on Targeted Updates to Corporate Governance Requirements for Banks, Insurers and Designated Financial Holding Companies", media release, 30 September 2026, as republished by Mondo Visione: https://mondovisione.com/media-and-resources/news/monetary-authority-of-singapore-consults-on-targeted-updates-to-corporate-govern-2026930
