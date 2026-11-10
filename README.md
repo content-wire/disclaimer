@@ -1,7 +1,10 @@
 
-SOURCES <p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
+<p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
 
+SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse.  
 
+REQUEST VIEWING ACCESS TO LEARN MORE ABOUT A SOURCE
+https://drive.google.com/drive/folders/1L5ULp2sD69ZMgIlZb0QIgjDrVZGFGM87?usp=sharing
 
 Disclaimer: Content Wire researches and publishes articles and analyses intended for general information only. They are written in good faith and based on consolidated sources, verified to the best of Content Wire's ability before publication. They do not constitute legal, financial, investment, tax, regulatory, compliance, procurement or other professional advice, and reading them creates no advisory, fiduciary or client relationship with Content Wire or its contributors. Readers should obtain independent professional advice before acting on any matter discussed.
 
@@ -14,8 +17,7 @@ References and links to third-party material are provided for convenience and im
 To the fullest extent Content Wire and its contributors accept no liability for any loss or damage arising from use of, or reliance on, its articles, and nothing in this disclaimer excludes or limits any liability that cannot lawfully be excluded or limited.  Send  Corrections to: contentwire@gmail.com
 
 
-SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse.  
-REQUEST VIEWING ACCESS TO ALL SOURCES https://drive.google.com/drive/folders/1L5ULp2sD69ZMgIlZb0QIgjDrVZGFGM87?usp=sharing
+
 
 
 
