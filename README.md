@@ -1,5 +1,5 @@
 
-<p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab, a division of Content Wire. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
+<p><strong>New report:</strong> the 'Global AI Regulatory Environment' 2026/27, published by ESL Lab. <a href="https://payhip.com/b/sFqC0">Get the report</a></p>
 
 SOURCES:  Content wire uses publicly available sources, including open access research and information in the public domain licensed under creative commons or other  open public license that allows reuse.  
 
